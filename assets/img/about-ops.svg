@@ -1,0 +1,14 @@
+﻿<svg width="1100" height="620" viewBox="0 0 1100 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="e" x1="0" y1="0" x2="1100" y2="620"><stop stop-color="#0E2536"/><stop offset="1" stop-color="#193C57"/></linearGradient>
+</defs>
+<rect width="1100" height="620" fill="url(#e)"/>
+<rect x="80" y="120" width="940" height="390" rx="24" fill="#0A1F2E" stroke="#76C9FB" stroke-width="2"/>
+<rect x="140" y="180" width="260" height="260" rx="16" fill="#163A54"/>
+<rect x="430" y="180" width="520" height="46" rx="10" fill="#254C69"/>
+<rect x="430" y="248" width="430" height="30" rx="8" fill="#315D7E"/>
+<rect x="430" y="294" width="470" height="30" rx="8" fill="#315D7E"/>
+<rect x="430" y="340" width="390" height="30" rx="8" fill="#315D7E"/>
+<rect x="430" y="386" width="440" height="30" rx="8" fill="#315D7E"/>
+<text x="100" y="90" fill="#EAF8FF" font-size="42" font-family="Arial" font-weight="700">Professional Logistics Operations Center</text>
+</svg>

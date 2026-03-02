@@ -1,0 +1,13 @@
+﻿<svg width="720" height="480" viewBox="0 0 720 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="c" x1="0" y1="0" x2="720" y2="480"><stop stop-color="#0D2C3E"/><stop offset="1" stop-color="#20526F"/></linearGradient></defs>
+<rect width="720" height="480" fill="url(#c)"/>
+<path d="M70 360H650" stroke="#9ADDFE" stroke-width="6"/>
+<path d="M90 330H630" stroke="#9ADDFE" stroke-width="4"/>
+<rect x="120" y="210" width="110" height="85" rx="12" fill="#15405A" stroke="#8FD7FF"/>
+<rect x="240" y="210" width="110" height="85" rx="12" fill="#15405A" stroke="#8FD7FF"/>
+<rect x="360" y="210" width="110" height="85" rx="12" fill="#15405A" stroke="#8FD7FF"/>
+<rect x="480" y="210" width="110" height="85" rx="12" fill="#15405A" stroke="#8FD7FF"/>
+<circle cx="170" cy="315" r="16" fill="#84D3FF"/>
+<circle cx="540" cy="315" r="16" fill="#84D3FF"/>
+<text x="70" y="90" fill="#E3F5FF" font-size="38" font-family="Arial" font-weight="700">Railway Freight</text>
+</svg>
