@@ -1,0 +1,40 @@
+﻿<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g1" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0A2233"/>
+    <stop offset="1" stop-color="#0F3A52"/>
+  </linearGradient>
+  <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(950 140) rotate(120) scale(460 380)">
+    <stop stop-color="#5DC1FF" stop-opacity="0.55"/>
+    <stop offset="1" stop-color="#5DC1FF" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1280" height="720" fill="url(#g1)"/>
+<rect width="1280" height="720" fill="url(#g2)"/>
+<g opacity="0.35" stroke="#A8DFFF" stroke-width="1.2">
+  <path d="M120 540C280 430 430 470 600 390C760 320 930 250 1160 210"/>
+  <path d="M130 430C290 370 450 360 610 300C780 240 950 190 1150 130"/>
+  <path d="M180 610C340 530 510 560 680 500C850 440 980 360 1160 320"/>
+</g>
+<g fill="#C7EAFF">
+  <circle cx="120" cy="540" r="7"/>
+  <circle cx="600" cy="390" r="7"/>
+  <circle cx="1160" cy="210" r="7"/>
+  <circle cx="130" cy="430" r="6"/>
+  <circle cx="610" cy="300" r="6"/>
+  <circle cx="1150" cy="130" r="6"/>
+  <circle cx="180" cy="610" r="6"/>
+  <circle cx="680" cy="500" r="6"/>
+  <circle cx="1160" cy="320" r="6"/>
+</g>
+<g opacity="0.88">
+  <rect x="220" y="500" width="200" height="110" rx="16" fill="#0B2E43" stroke="#77CBFF" stroke-width="2"/>
+  <rect x="440" y="450" width="220" height="130" rx="16" fill="#0C3047" stroke="#77CBFF" stroke-width="2"/>
+  <rect x="690" y="410" width="250" height="145" rx="16" fill="#0D324A" stroke="#77CBFF" stroke-width="2"/>
+  <path d="M250 530H390M250 560H360" stroke="#B7E5FF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M470 490H620M470 525H580" stroke="#B7E5FF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M725 455H900M725 495H860" stroke="#B7E5FF" stroke-width="7" stroke-linecap="round"/>
+</g>
+<text x="96" y="110" fill="#DFF4FF" font-size="56" font-family="Arial" font-weight="700">Yiwu Fugia Logistics</text>
+<text x="96" y="160" fill="#A8DFFF" font-size="28" font-family="Arial">China-Origin Global Freight Network</text>
+</svg>

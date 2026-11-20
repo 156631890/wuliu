@@ -1,0 +1,10 @@
+.git
+.vercel
+scripts
+*.md
+*.ps1
+*.bat
+*.log
+requirements-dev.txt
+__pycache__
+.env*
