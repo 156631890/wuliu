@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-20",
+  "reviewMode": "automated",
+  "publicationBasis": "User standing authorization for all confirmed sites. No human reviewer or approval claimed.",
+  "sourcesAndLimits": "Two bilingual articles, counted as two topics. English and Chinese facts aligned. Hypothetical packing arithmetic:4*60*40*40/1000000=.384;3*50*30*30/1000000=.135;sum .519 m3;4*12+3*8=72 kg. No universal charging divisor, promised schedule, freight rate or customer case. Event workflow is an editorial method. All 14 previous page main bodies preserved; only archive navigation added. Existing robots, redirects, scripts, styles and 7 images retained.",
+  "pages": [
+    {
+      "domain": "www.fugiaexpress.com",
+      "url": "https://www.fugiaexpress.com/insights/mixed-carton-cbm-quote/",
+      "checkedAt": "2026-11-20T02:20:40.100777+00:00",
+      "htmlSha256": "682ad0ddd19ae41458843c64a0cc24829b9be2c57f5b86fcb00f8cdf395ac5ac",
+      "snapshot": "C:\\Users\\Administrator\\Documents\\Five-sites-SEO-weekly\\2026-11-20\\candidate-browser-more\\www.fugiaexpress.com-insights-mixed-carton-cbm-quote.html",
+      "title": "混合箱型询价：体积、毛重与装箱资料怎么整理 | Fugia Express",
+      "h1": "混合箱型询价：体积、毛重与装箱资料怎么整理",
+      "views": [
+        {
+          "mode": "desktop",
+          "status": 200,
+          "bodyChars": 1157,
+          "overflow": false,
+          "brokenImages": [],
+          "errors": []
+        },
+        {
+          "mode": "mobile",
+          "status": 200,
+          "bodyChars": 1157,
+          "overflow": false,
+          "brokenImages": [],
+          "errors": []
+        },
+        {
+          "mode": "nojs",
+          "status": 200,
+          "bodyChars": 1157,
+          "overflow": false,
+          "brokenImages": [],
+          "errors": []
+        }
+      ],
+      "cta": {
+        "url": "http://127.0.0.1:4327/contact.html",
+        "h1": [
+          "\n            告诉我们，您的下一程。\n          "
+        ],
+        "inputs": 8
+      },
+      "state": "prepublication_verified"
+    },
+    {
+      "domain": "www.fugiaexpress.com",
+      "url": "https://www.fugiaexpress.com/insights/cargo-ready-cutoff-confirmation/",
+      "checkedAt": "2026-11-20T02:20:43.622850+00:00",
+      "htmlSha256": "3859b6e8765ac9c1e6d684723f1021e251c1de70a7e139f6f95c579bd4749df5",
+      "snapshot": "C:\\Users\\Administrator\\Documents\\Five-sites-SEO-weekly\\2026-11-20\\candidate-browser-more\\www.fugiaexpress.com-insights-cargo-ready-cutoff-confirmation.html",
+      "title": "货好日期与截单截货：按事件确认出运计划 | Fugia Express",
+      "h1": "货好日期与截单截货：按事件确认出运计划",
+      "views": [
+        {
+          "mode": "desktop",
+          "status": 200,
+          "bodyChars": 1062,
+          "overflow": false,
+          "brokenImages": [],
+          "errors": []
+        },
+        {
+          "mode": "mobile",
+          "status": 200,
+          "bodyChars": 1062,
+          "overflow": false,
+          "brokenImages": [],
+          "errors": []
+        },
+        {
+          "mode": "nojs",
+          "status": 200,
+          "bodyChars": 1062,
+          "overflow": false,
+          "brokenImages": [],
+          "errors": []
+        }
+      ],
+      "cta": {
+        "url": "http://127.0.0.1:4327/contact.html",
+        "h1": [
+          "\n            告诉我们，您的下一程。\n          "
+        ],
+        "inputs": 8
+      },
+      "state": "prepublication_verified"
+    },
+    {
+      "domain": "www.fugiaexpress.com",
+      "url": "https://www.fugiaexpress.com/en/insights/mixed-carton-cbm-quote/",
+      "checkedAt": "2026-11-20T02:20:46.920207+00:00",
+      "htmlSha256": "758c359515d0b73ef72a60b4787b34d65d7e829a35d453b199f97c7de047f2d0",
+      "snapshot": "C:\\Users\\Administrator\\Documents\\Five-sites-SEO-weekly\\2026-11-20\\candidate-browser-more\\www.fugiaexpress.com-en-insights-mixed-carton-cbm-quote.html",
+      "title": "Mixed-carton CBM: prepare dimensions and gross weight for a freight quote | Fugia Express",
+      "h1": "Mixed-carton CBM: prepare dimensions and gross weight for a freight quote",
+      "views": [
+        {
+          "mode": "desktop",
+          "status": 200,
+          "bodyChars": 3798,
+          "overflow": false,
+          "brokenImages": [],
+          "errors": []
+        },
+        {
+          "mode": "mobile",
+          "status": 200,
+          "bodyChars": 3798,
+          "overflow": false,
+          "brokenImages": [],
+          "errors": []
+        },
+        {
+          "mode": "nojs",
+          "status": 200,
+          "bodyChars": 3798,
+          "overflow": false,
+          "brokenImages": [],
+          "errors": []
+        }
+      ],
+      "cta": {
+        "url": "http://127.0.0.1:4327/en/contact.html",
+        "h1": [
+          "Tell us about your next shipment."
+        ],
+        "inputs": 8
+      },
+      "state": "prepublication_verified"
+    },
+    {
+      "domain": "www.fugiaexpress.com",
+      "url": "https://www.fugiaexpress.com/en/insights/cargo-ready-cutoff-confirmation/",
+      "checkedAt": "2026-11-20T02:20:50.087406+00:00",
+      "htmlSha256": "405f9c16c866e827b2d0714902f617e06f654ed38542d39fd9320fe12f2ea06e",
+      "snapshot": "C:\\Users\\Administrator\\Documents\\Five-sites-SEO-weekly\\2026-11-20\\candidate-browser-more\\www.fugiaexpress.com-en-insights-cargo-ready-cutoff-confirmation.html",
+      "title": "Cargo-ready dates and cutoffs: confirm the shipping plan by event | Fugia Express",
+      "h1": "Cargo-ready dates and cutoffs: confirm the shipping plan by event",
+      "views": [
+        {
+          "mode": "desktop",
+          "status": 200,
+          "bodyChars": 3690,
+          "overflow": false,
+          "brokenImages": [],
+          "errors": []
+        },
+        {
+          "mode": "mobile",
+          "status": 200,
+          "bodyChars": 3690,
+          "overflow": false,
+          "brokenImages": [],
+          "errors": []
+        },
+        {
+          "mode": "nojs",
+          "status": 200,
+          "bodyChars": 3690,
+          "overflow": false,
+          "brokenImages": [],
+          "errors": []
+        }
+      ],
+      "cta": {
+        "url": "http://127.0.0.1:4327/en/contact.html",
+        "h1": [
+          "Tell us about your next shipment."
+        ],
+        "inputs": 8
+      },
+      "state": "prepublication_verified"
+    }
+  ],
+  "internalLinksAndDownloads": [
+    {
+      "path": "/insights/",
+      "status": 200,
+      "bytes": 9830,
+      "sha256": "84787a001f66ffe54f3e277fb8228a1855df1a4e7305d0ae3e0f350af2201879",
+      "ok": true
+    },
+    {
+      "path": "/contact.html",
+      "status": 200,
+      "bytes": 24572,
+      "sha256": "6f2b4bf54c5d2a13bdbf5439685450454c3a81d14ce919046e09200d19619e2b",
+      "ok": true
+    },
+    {
+      "path": "/en/contact.html",
+      "status": 200,
+      "bytes": 13022,
+      "sha256": "b615c1970921434dd75cb7d14168b12e07906478dd716e404ab08617425de434",
+      "ok": true
+    },
+    {
+      "path": "/en/insights/cargo-ready-cutoff-confirmation/",
+      "status": 200,
+      "bytes": 11834,
+      "sha256": "405f9c16c866e827b2d0714902f617e06f654ed38542d39fd9320fe12f2ea06e",
+      "ok": true
+    },
+    {
+      "path": "/services.html",
+      "status": 200,
+      "bytes": 41811,
+      "sha256": "b959884ddaaf340f43d011c2fc12e1ebae0d8dd55a6608d452b7957c2ec95eac",
+      "ok": true
+    },
+    {
+      "path": "/insights/cargo-ready-cutoff-confirmation/",
+      "status": 200,
+      "bytes": 13082,
+      "sha256": "3859b6e8765ac9c1e6d684723f1021e251c1de70a7e139f6f95c579bd4749df5",
+      "ok": true
+    },
+    {
+      "path": "/en/services.html",
+      "status": 200,
+      "bytes": 23535,
+      "sha256": "6703a3daae07d99fcf4a1030e3e6b85dec933ecc50f9c1aae70e4e127231fbd7",
+      "ok": true
+    },
+    {
+      "path": "/en/insights/",
+      "status": 200,
+      "bytes": 7913,
+      "sha256": "16c8bbfa86ffa0ec99c259e4b502b4866f0f81bc18a760e614c6897e38cd1d1e",
+      "ok": true
+    },
+    {
+      "path": "/insights/mixed-carton-cbm-quote/",
+      "status": 200,
+      "bytes": 13102,
+      "sha256": "682ad0ddd19ae41458843c64a0cc24829b9be2c57f5b86fcb00f8cdf395ac5ac",
+      "ok": true
+    },
+    {
+      "path": "/en/insights/mixed-carton-cbm-quote/",
+      "status": 200,
+      "bytes": 11890,
+      "sha256": "758c359515d0b73ef72a60b4787b34d65d7e829a35d453b199f97c7de047f2d0",
+      "ok": true
+    }
+  ],
+  "checks": {
+    "C01": "通过",
+    "C02": "通过",
+    "C03": "通过",
+    "C04": "通过",
+    "C05": "通过",
+    "C06": "通过",
+    "C07": "通过",
+    "C08": "通过",
+    "C09": "通过",
+    "C10": "通过",
+    "C11": "通过",
+    "C12": "通过",
+    "C13": "通过",
+    "C14": "通过",
+    "C16": "通过",
+    "C17": "通过",
+    "C15": "通过"
+  },
+  "excluded": {},
+  "scope": "Final article content, metadata, schema, existing media, downloads, internal navigation, visible dates, indexing and affected business entrances. No payment, real inquiry or paid model invocation. Google/Bing actual indexing of revision is unknown.",
+  "languageEvidence": "All four final pages and six sitemap URLs have corresponding zh-CN/en/x-default alternates and self-canonicals. The formulas and assumptions match in both languages.",
+  "sourceHashes": {
+    "insights/index.html": "84787a001f66ffe54f3e277fb8228a1855df1a4e7305d0ae3e0f350af2201879",
+    "insights/mixed-carton-cbm-quote/index.html": "682ad0ddd19ae41458843c64a0cc24829b9be2c57f5b86fcb00f8cdf395ac5ac",
+    "insights/cargo-ready-cutoff-confirmation/index.html": "3859b6e8765ac9c1e6d684723f1021e251c1de70a7e139f6f95c579bd4749df5",
+    "en/insights/index.html": "16c8bbfa86ffa0ec99c259e4b502b4866f0f81bc18a760e614c6897e38cd1d1e",
+    "en/insights/mixed-carton-cbm-quote/index.html": "758c359515d0b73ef72a60b4787b34d65d7e829a35d453b199f97c7de047f2d0",
+    "en/insights/cargo-ready-cutoff-confirmation/index.html": "405f9c16c866e827b2d0714902f617e06f654ed38542d39fd9320fe12f2ea06e",
+    "sitemap.xml": "64eeeadca2026cf3330e254451508a899b43a90394db2b36250a29c058235f9b",
+    "about.html": "044afc4128e315db09048be3f43eef9073494ab61ea1649cf86c7a68c980d82c",
+    "contact.html": "6f2b4bf54c5d2a13bdbf5439685450454c3a81d14ce919046e09200d19619e2b",
+    "index.html": "10e7bdef4a552dfda2315f0f1fc82959fcba8adfb3c1f5e97db6a25c408e23b2",
+    "privacy.html": "1d4a95903fb9401b8328d2c62baf86ff8067c034a0f92dde5c4b6b809a9803b6",
+    "routes.html": "98a78d1c9a3afcb1607d493aeafb518e8d4ba24ccc9428dfe7ff182a4cdb95e3",
+    "services.html": "b959884ddaaf340f43d011c2fc12e1ebae0d8dd55a6608d452b7957c2ec95eac",
+    "why-fugia.html": "bcf01ea10913d018e656f3c10705ba91989aaafe686525f6c6a813ad35e29aad",
+    "en/about.html": "ea8cd94923b086fd954e361b6f2e9ee1c49388d2e91a9c2343b1dd7b1cf5ed6d",
+    "en/contact.html": "b615c1970921434dd75cb7d14168b12e07906478dd716e404ab08617425de434",
+    "en/index.html": "12197ab4825724495cb7e60f1391031b58cb07dc59a23ea61176d6c7053a2be0",
+    "en/privacy.html": "1fcbae7b24347964b0bd24f7f1f08af19014fb78a073ca7755a9235a249185f9",
+    "en/routes.html": "7e7ad4c1f994dbd526705027177c1f284da3f143740c31d86936b0db8bedee31",
+    "en/services.html": "6703a3daae07d99fcf4a1030e3e6b85dec933ecc50f9c1aae70e4e127231fbd7",
+    "en/why-fugia.html": "0ab1ebb5a1fcceda658902fb063bdd24d76c9e6212756d6d40123352c860438b"
+  }
+}
