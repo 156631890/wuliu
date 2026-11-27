@@ -1,0 +1,434 @@
+{
+  "date": "2026-11-27",
+  "reviewMode": "automated",
+  "publicationAuthority": "用户全部自有站点持续自动审核上线授权",
+  "baseCommit": "498138041158114ed942eb5370846842e954f79a",
+  "rollbackDeployment": "dpl_3Sch8ggAxAKx89hwjTjTrA9cQYiG",
+  "factsAndLimits": "实质扩充两篇中英文物流指南：包装替换箱号和毫米换算、部分提货口径；事件前置证据、缺失尺寸时的复核和独立事件关闭。三箱70×45×40cm=.378m3，.378+.135=.513m3；600×400×400mm=.096m3复算正确。时间和数量明确假设，不声称实际运输、统一计费规则或时效。保留11/20发布日期，11/27为真实实质更新。发布前20个现有正式页正文全部与生产来源工作区一致；当前Vercel项目wuliu绑定已确认。中英共四个页面desktop/mobile/noJS、metadata、schema、sitemap和内链检查通过，两主题翻译不重复计数。",
+  "checks": {
+    "C01": "通过",
+    "C02": "通过",
+    "C03": "通过",
+    "C04": "通过",
+    "C05": "通过",
+    "C06": "通过",
+    "C07": "通过",
+    "C08": "通过",
+    "C09": "通过",
+    "C11": "通过",
+    "C12": "通过",
+    "C13": "通过",
+    "C14": "通过",
+    "C15": "通过",
+    "C16": "通过",
+    "C17": "通过"
+  },
+  "excluded": {
+    "C10": "正文无新增媒体，既有示意图和标签保留"
+  },
+  "sources": [
+    "当前已核对Fugia正式服务页和联系页；新增内容为明确的记录方法与假设计算，不引用承运人标准"
+  ],
+  "pages": [
+    {
+      "domain": "www.fugiaexpress.com",
+      "url": "https://www.fugiaexpress.com/en/insights/mixed-carton-cbm-quote/",
+      "title": "Mixed-carton CBM: prepare dimensions and gross weight for a freight quote",
+      "changeType": "substantive_update",
+      "translationOf": "mixed-carton-cbm-quote",
+      "reviewMode": "automated",
+      "state": "technical_verified",
+      "checkedAt": "2026-11-27T02:21:30.917008+00:00",
+      "canonical": "https://www.fugiaexpress.com/en/insights/mixed-carton-cbm-quote/",
+      "robots": "",
+      "description": "Work through a seven-carton example, record outer dimensions and gross weight, and keep measured packing data separate from chargeable weight and quoted fees.",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": "Mixed-carton CBM: prepare dimensions and gross weight for a freight quote",
+          "description": "Work through a seven-carton example, record outer dimensions and gross weight, and keep measured packing data separate from chargeable weight and quoted fees.",
+          "url": "https://www.fugiaexpress.com/en/insights/mixed-carton-cbm-quote/",
+          "inLanguage": "en",
+          "author": {
+            "@type": "Organization",
+            "name": "Fugia Express",
+            "url": "https://www.fugiaexpress.com/en/about.html"
+          },
+          "datePublished": "2026-11-20",
+          "dateModified": "2026-11-27",
+          "mainEntityOfPage": "https://www.fugiaexpress.com/en/insights/mixed-carton-cbm-quote/"
+        }
+      ],
+      "snapshot": "E:\\CodexWork\\weekly-seo-20261127\\batch2-verification\\www.fugiaexpress.com-en-insights-mixed-carton-cbm-quote-local.html",
+      "sha256": "306f87a07853144ff800258dfceeabc92861e248548f1efccb161a878cfa7015",
+      "links": [
+        {
+          "url": "http://127.0.0.1:4690/en/contact.html",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/en/contact.html"
+        },
+        {
+          "url": "http://127.0.0.1:4690/en/insights/",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/en/insights/"
+        },
+        {
+          "url": "http://127.0.0.1:4690/en/insights/cargo-ready-cutoff-confirmation/",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/en/insights/cargo-ready-cutoff-confirmation/"
+        },
+        {
+          "url": "http://127.0.0.1:4690/en/services.html",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/en/services.html"
+        }
+      ],
+      "views": [
+        {
+          "mode": "desktop",
+          "status": 200,
+          "h1": [
+            "Mixed-carton CBM: prepare dimensions and gross weight for a freight quote"
+          ],
+          "bodyChars": 6394,
+          "overflow": false,
+          "pageErrors": [],
+          "brokenImages": [],
+          "screenshot": "E:\\CodexWork\\weekly-seo-20261127\\batch2-verification\\www.fugiaexpress.com-en-insights-mixed-carton-cbm-quote-local-desktop.png"
+        },
+        {
+          "mode": "mobile",
+          "status": 200,
+          "h1": [
+            "Mixed-carton CBM: prepare dimensions and gross weight for a freight quote"
+          ],
+          "bodyChars": 6275,
+          "overflow": false,
+          "pageErrors": [],
+          "brokenImages": [],
+          "screenshot": "E:\\CodexWork\\weekly-seo-20261127\\batch2-verification\\www.fugiaexpress.com-en-insights-mixed-carton-cbm-quote-local-mobile.png",
+          "ctaLinkCount": 7,
+          "nextStep": {
+            "url": "http://127.0.0.1:4690/en/contact.html",
+            "status": 200,
+            "fields": 8,
+            "submitted": false
+          }
+        },
+        {
+          "mode": "nojs",
+          "status": 200,
+          "h1": [
+            "Mixed-carton CBM: prepare dimensions and gross weight for a freight quote"
+          ],
+          "bodyChars": 6275,
+          "overflow": false,
+          "pageErrors": [],
+          "brokenImages": []
+        }
+      ],
+      "errors": []
+    },
+    {
+      "domain": "www.fugiaexpress.com",
+      "url": "https://www.fugiaexpress.com/insights/mixed-carton-cbm-quote/",
+      "title": "混合箱型询价：体积、毛重与装箱资料怎么整理",
+      "changeType": "substantive_update",
+      "translationOf": null,
+      "reviewMode": "automated",
+      "state": "technical_verified",
+      "checkedAt": "2026-11-27T02:21:34.165993+00:00",
+      "canonical": "https://www.fugiaexpress.com/insights/mixed-carton-cbm-quote/",
+      "robots": "",
+      "description": "用一个明确标注的混箱算例整理箱数、外尺寸、立方米与毛重，区分实测资料、估算和承运方确认的计费规则。",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": "混合箱型询价：体积、毛重与装箱资料怎么整理",
+          "description": "用一个明确标注的混箱算例整理箱数、外尺寸、立方米与毛重，区分实测资料、估算和承运方确认的计费规则。",
+          "url": "https://www.fugiaexpress.com/insights/mixed-carton-cbm-quote/",
+          "inLanguage": "zh-CN",
+          "author": {
+            "@type": "Organization",
+            "name": "Fugia Express",
+            "url": "https://www.fugiaexpress.com/about.html"
+          },
+          "datePublished": "2026-11-20",
+          "dateModified": "2026-11-27",
+          "mainEntityOfPage": "https://www.fugiaexpress.com/insights/mixed-carton-cbm-quote/"
+        }
+      ],
+      "snapshot": "E:\\CodexWork\\weekly-seo-20261127\\batch2-verification\\www.fugiaexpress.com-insights-mixed-carton-cbm-quote-local.html",
+      "sha256": "1666c25abcd3c39c5a7f18051d11a5c1de1da0a2764abbacf77dc6a2a3dc4bb9",
+      "links": [
+        {
+          "url": "http://127.0.0.1:4690/contact.html",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/contact.html"
+        },
+        {
+          "url": "http://127.0.0.1:4690/insights/",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/insights/"
+        },
+        {
+          "url": "http://127.0.0.1:4690/insights/cargo-ready-cutoff-confirmation/",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/insights/cargo-ready-cutoff-confirmation/"
+        },
+        {
+          "url": "http://127.0.0.1:4690/services.html",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/services.html"
+        }
+      ],
+      "views": [
+        {
+          "mode": "desktop",
+          "status": 200,
+          "h1": [
+            "混合箱型询价：体积、毛重与装箱资料怎么整理"
+          ],
+          "bodyChars": 2156,
+          "overflow": false,
+          "pageErrors": [],
+          "brokenImages": [],
+          "screenshot": "E:\\CodexWork\\weekly-seo-20261127\\batch2-verification\\www.fugiaexpress.com-insights-mixed-carton-cbm-quote-local-desktop.png"
+        },
+        {
+          "mode": "mobile",
+          "status": 200,
+          "h1": [
+            "混合箱型询价：体积、毛重与装箱资料怎么整理"
+          ],
+          "bodyChars": 2092,
+          "overflow": false,
+          "pageErrors": [],
+          "brokenImages": [],
+          "screenshot": "E:\\CodexWork\\weekly-seo-20261127\\batch2-verification\\www.fugiaexpress.com-insights-mixed-carton-cbm-quote-local-mobile.png",
+          "ctaLinkCount": 7,
+          "nextStep": {
+            "url": "http://127.0.0.1:4690/contact.html",
+            "status": 200,
+            "fields": 8,
+            "submitted": false
+          }
+        },
+        {
+          "mode": "nojs",
+          "status": 200,
+          "h1": [
+            "混合箱型询价：体积、毛重与装箱资料怎么整理"
+          ],
+          "bodyChars": 2092,
+          "overflow": false,
+          "pageErrors": [],
+          "brokenImages": []
+        }
+      ],
+      "errors": []
+    },
+    {
+      "domain": "www.fugiaexpress.com",
+      "url": "https://www.fugiaexpress.com/en/insights/cargo-ready-cutoff-confirmation/",
+      "title": "Cargo-ready dates and cutoffs: confirm the shipping plan by event",
+      "changeType": "substantive_update",
+      "translationOf": "cargo-ready-cutoff-confirmation",
+      "reviewMode": "automated",
+      "state": "technical_verified",
+      "checkedAt": "2026-11-27T02:21:37.723293+00:00",
+      "canonical": "https://www.fugiaexpress.com/en/insights/cargo-ready-cutoff-confirmation/",
+      "robots": "",
+      "description": "Separate estimated readiness, collection, document deadlines, cargo cutoffs and scheduled departure with a versioned event record and clear confirmation states.",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": "Cargo-ready dates and cutoffs: confirm the shipping plan by event",
+          "description": "Separate estimated readiness, collection, document deadlines, cargo cutoffs and scheduled departure with a versioned event record and clear confirmation states.",
+          "url": "https://www.fugiaexpress.com/en/insights/cargo-ready-cutoff-confirmation/",
+          "inLanguage": "en",
+          "author": {
+            "@type": "Organization",
+            "name": "Fugia Express",
+            "url": "https://www.fugiaexpress.com/en/about.html"
+          },
+          "datePublished": "2026-11-20",
+          "dateModified": "2026-11-27",
+          "mainEntityOfPage": "https://www.fugiaexpress.com/en/insights/cargo-ready-cutoff-confirmation/"
+        }
+      ],
+      "snapshot": "E:\\CodexWork\\weekly-seo-20261127\\batch2-verification\\www.fugiaexpress.com-en-insights-cargo-ready-cutoff-confirmation-local.html",
+      "sha256": "310f613def1121759fc63f42ed068109671748fb91787a8f4a94811bd6b252d5",
+      "links": [
+        {
+          "url": "http://127.0.0.1:4690/en/contact.html",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/en/contact.html"
+        },
+        {
+          "url": "http://127.0.0.1:4690/en/insights/",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/en/insights/"
+        },
+        {
+          "url": "http://127.0.0.1:4690/en/insights/mixed-carton-cbm-quote/",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/en/insights/mixed-carton-cbm-quote/"
+        },
+        {
+          "url": "http://127.0.0.1:4690/en/services.html",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/en/services.html"
+        }
+      ],
+      "views": [
+        {
+          "mode": "desktop",
+          "status": 200,
+          "h1": [
+            "Cargo-ready dates and cutoffs: confirm the shipping plan by event"
+          ],
+          "bodyChars": 6525,
+          "overflow": false,
+          "pageErrors": [],
+          "brokenImages": [],
+          "screenshot": "E:\\CodexWork\\weekly-seo-20261127\\batch2-verification\\www.fugiaexpress.com-en-insights-cargo-ready-cutoff-confirmation-local-desktop.png"
+        },
+        {
+          "mode": "mobile",
+          "status": 200,
+          "h1": [
+            "Cargo-ready dates and cutoffs: confirm the shipping plan by event"
+          ],
+          "bodyChars": 6406,
+          "overflow": false,
+          "pageErrors": [],
+          "brokenImages": [],
+          "screenshot": "E:\\CodexWork\\weekly-seo-20261127\\batch2-verification\\www.fugiaexpress.com-en-insights-cargo-ready-cutoff-confirmation-local-mobile.png",
+          "ctaLinkCount": 7,
+          "nextStep": {
+            "url": "http://127.0.0.1:4690/en/contact.html",
+            "status": 200,
+            "fields": 8,
+            "submitted": false
+          }
+        },
+        {
+          "mode": "nojs",
+          "status": 200,
+          "h1": [
+            "Cargo-ready dates and cutoffs: confirm the shipping plan by event"
+          ],
+          "bodyChars": 6406,
+          "overflow": false,
+          "pageErrors": [],
+          "brokenImages": []
+        }
+      ],
+      "errors": []
+    },
+    {
+      "domain": "www.fugiaexpress.com",
+      "url": "https://www.fugiaexpress.com/insights/cargo-ready-cutoff-confirmation/",
+      "title": "货好日期与截单截货：按事件确认出运计划",
+      "changeType": "substantive_update",
+      "translationOf": null,
+      "reviewMode": "automated",
+      "state": "technical_verified",
+      "checkedAt": "2026-11-27T02:21:40.744590+00:00",
+      "canonical": "https://www.fugiaexpress.com/insights/cargo-ready-cutoff-confirmation/",
+      "robots": "",
+      "description": "把预计货好、可提货、截单、截货和计划开航分开记录，明确时区、责任人、确认状态与变更后的复核动作。",
+      "schema": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": "货好日期与截单截货：按事件确认出运计划",
+          "description": "把预计货好、可提货、截单、截货和计划开航分开记录，明确时区、责任人、确认状态与变更后的复核动作。",
+          "url": "https://www.fugiaexpress.com/insights/cargo-ready-cutoff-confirmation/",
+          "inLanguage": "zh-CN",
+          "author": {
+            "@type": "Organization",
+            "name": "Fugia Express",
+            "url": "https://www.fugiaexpress.com/about.html"
+          },
+          "datePublished": "2026-11-20",
+          "dateModified": "2026-11-27",
+          "mainEntityOfPage": "https://www.fugiaexpress.com/insights/cargo-ready-cutoff-confirmation/"
+        }
+      ],
+      "snapshot": "E:\\CodexWork\\weekly-seo-20261127\\batch2-verification\\www.fugiaexpress.com-insights-cargo-ready-cutoff-confirmation-local.html",
+      "sha256": "9338922c946443a51bfec77afb46deff4ea1d88e0e70b179dbb988181093373c",
+      "links": [
+        {
+          "url": "http://127.0.0.1:4690/contact.html",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/contact.html"
+        },
+        {
+          "url": "http://127.0.0.1:4690/insights/",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/insights/"
+        },
+        {
+          "url": "http://127.0.0.1:4690/insights/mixed-carton-cbm-quote/",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/insights/mixed-carton-cbm-quote/"
+        },
+        {
+          "url": "http://127.0.0.1:4690/services.html",
+          "status": 200,
+          "finalUrl": "http://127.0.0.1:4690/services.html"
+        }
+      ],
+      "views": [
+        {
+          "mode": "desktop",
+          "status": 200,
+          "h1": [
+            "货好日期与截单截货：按事件确认出运计划"
+          ],
+          "bodyChars": 2075,
+          "overflow": false,
+          "pageErrors": [],
+          "brokenImages": [],
+          "screenshot": "E:\\CodexWork\\weekly-seo-20261127\\batch2-verification\\www.fugiaexpress.com-insights-cargo-ready-cutoff-confirmation-local-desktop.png"
+        },
+        {
+          "mode": "mobile",
+          "status": 200,
+          "h1": [
+            "货好日期与截单截货：按事件确认出运计划"
+          ],
+          "bodyChars": 2011,
+          "overflow": false,
+          "pageErrors": [],
+          "brokenImages": [],
+          "screenshot": "E:\\CodexWork\\weekly-seo-20261127\\batch2-verification\\www.fugiaexpress.com-insights-cargo-ready-cutoff-confirmation-local-mobile.png",
+          "ctaLinkCount": 7,
+          "nextStep": {
+            "url": "http://127.0.0.1:4690/contact.html",
+            "status": 200,
+            "fields": 8,
+            "submitted": false
+          }
+        },
+        {
+          "mode": "nojs",
+          "status": 200,
+          "h1": [
+            "货好日期与截单截货：按事件确认出运计划"
+          ],
+          "bodyChars": 2011,
+          "overflow": false,
+          "pageErrors": [],
+          "brokenImages": []
+        }
+      ],
+      "errors": []
+    }
+  ]
+}
