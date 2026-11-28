@@ -126,4 +126,7 @@
 <xhtml:link href="https://www.fugiaexpress.com/en/insights/" hreflang="en" rel="alternate"/>
 <xhtml:link href="https://www.fugiaexpress.com/insights/" hreflang="x-default" rel="alternate"/>
 </url>
+
+<url><loc>https://www.fugiaexpress.com/buying-questions/</loc><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.fugiaexpress.com/buying-questions/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.fugiaexpress.com/en/buying-questions/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://www.fugiaexpress.com/buying-questions/"/></url>
+<url><loc>https://www.fugiaexpress.com/en/buying-questions/</loc><xhtml:link rel="alternate" hreflang="zh-CN" href="https://www.fugiaexpress.com/buying-questions/"/><xhtml:link rel="alternate" hreflang="en" href="https://www.fugiaexpress.com/en/buying-questions/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://www.fugiaexpress.com/buying-questions/"/></url>
 </urlset>
